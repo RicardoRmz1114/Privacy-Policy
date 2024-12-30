@@ -1,5 +1,5 @@
 # Verdad o Reto Privacy Policy
-##### Information Collection and Use
+Information Collection and Use
 We do not collect any personal information from users of this app.
 
 Third-Party Services
